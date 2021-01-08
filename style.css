@@ -1,0 +1,20 @@
+body {
+  background-color: azure;
+}
+
+img {
+  border-style: inset;
+  border-color: black;
+}
+
+form {
+  text-align: center;
+  background-color: darkgrey;
+  color: darkslategrey;
+  font-size: 110%;
+  border-style: inset;
+  border-color: black;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 10px;
+}
